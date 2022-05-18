@@ -1,0 +1,43 @@
+{
+  "name": "Test Github",
+  "connectorType": "",
+  "userId": 1545575618,
+  "domoClientId": "",
+  "domoClientSecret": "9996f1a1d32d1569adc3cda77a81a64c",
+  "additionalInfo": "",
+  "reportLength": 5,
+  "days": 7,
+  "reports": [
+    "Past Hour",
+    "Past Day",
+    "Past 7 Days",
+    "Past 30 Days",
+    "Pull data from the last X day(s)"
+  ],
+  "advancedReports": null,
+  "guid": "2ccf3e23-8f9b-48b3-8b92-706d85ad04b0",
+  "publishPrivate": true,
+  "visibilityType": {
+    "label": null,
+    "value": "communitySupported"
+  },
+  "parameters": null,
+  "commands": null,
+  "showAdvanced": false,
+  "submittedVersion": 2,
+  "submittedMajorVersion": 0,
+  "publishedVersion": 0,
+  "workbenchEnabled": false,
+  "dataProviderCreated": false,
+  "description": null,
+  "tags": null,
+  "successResponseDefinition": null,
+  "errorResponseDefinition": null,
+  "updateCode": false,
+  "requestingCustomerId": null,
+  "ownerId": null,
+  "ownerCustomerId": null,
+  "parentGuid": null,
+  "testingProfiles": null,
+  "visible": true
+}
